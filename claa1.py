@@ -1,3 +1,58 @@
+ASSIGNMENT-3 "what is r+, w+, a+ and Create a calci where the values are operators need to be given by user 
+
+with open('file.txt', 'w+') as f:
+ f.write("hi"\n")
+ f.write("hi"\n")
+ f.write("i am sowmya\n")
+ f.write("welcome to my pc in")
+ f.seek(0)        
+ lines.red() 
+ print(lines)
+
+with open('file.txt', 're') as f:
+ 
+f.write("welcome")
+
+with open("File.txt", 'a+') as f:
+
+f.write("i am starting new project").
+f.seek(0)
+
+CALCULATOR
+
+def sun()
+
+asint(input("eriter the nai-")) b-int(input("enter the nut-"))
+
+print("sun", ab) with open('calculator.tat,tat) as fi fwrite(fin sun of (a) and (b) is (a+b)\n") fwrite(sum of",a, "end",b, "L", o+b, "in")
+
+def sub(3: a-int(input("enter the must-"))
+
+b-int(input("anter the nus-")) print("sub,a-b)
+
+with open('calculator.txta") as f.write(in subtraction of (a) and (b) is (a-b)\n")
+
+def mil():
+
+-Int(input("enter the niat ))) bint(input("enter the numi-3)
+
+with open("calculator
+
+txtUONE
+
+writeln multiplication of (a) and (b) is (a*b}\n")
+
+def divi):
+
+a-int(input("enter the nund-"))
+
+b-int(input("enter the nuns")) print("div", a/b)
+
+with open('calculator.txt","a") as f fwrite(in division at (a) and (b) is (a/b)\n")
+
+enter the nun 2 enter the numi-3
+
+enter the num-4 enter the num 4
 #collection of datatypes
 ##list--> used to store ordered collection of datatypes in a single variable , [], mutable(changable,allows duplicates)
 thelist1=[True,False,True,False,True] #homogeneous--> same data type 
